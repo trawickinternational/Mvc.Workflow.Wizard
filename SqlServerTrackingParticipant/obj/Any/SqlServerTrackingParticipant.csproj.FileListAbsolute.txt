@@ -1,0 +1,3 @@
+C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\bin\SqlServerTrackingParticipant.dll.config
+C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\bin\SqlServerTrackingParticipant.dll
+C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Any\SqlServerTrackingParticipant.dll

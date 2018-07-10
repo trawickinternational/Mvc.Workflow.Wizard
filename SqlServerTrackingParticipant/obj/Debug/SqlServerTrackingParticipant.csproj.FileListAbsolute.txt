@@ -19,3 +19,9 @@ C:\Projects\LAP\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\bin\SqlServerTr
 C:\Projects\LAP\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.dll
 C:\Projects\LAP\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.pdb
 C:\Projects\LAP\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.csprojResolveAssemblyReference.cache
+C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\bin\SqlServerTrackingParticipant.dll.config
+C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\bin\SqlServerTrackingParticipant.dll
+C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\bin\SqlServerTrackingParticipant.pdb
+C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.dll
+C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.pdb
+C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.csprojResolveAssemblyReference.cache
