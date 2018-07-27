@@ -25,3 +25,9 @@ C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\bin\SqlServerTracking
 C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.dll
 C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.pdb
 C:\Source\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.csprojResolveAssemblyReference.cache
+C:\Trawick\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\bin\SqlServerTrackingParticipant.dll.config
+C:\Trawick\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\bin\SqlServerTrackingParticipant.dll
+C:\Trawick\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\bin\SqlServerTrackingParticipant.pdb
+C:\Trawick\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.csprojResolveAssemblyReference.cache
+C:\Trawick\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.dll
+C:\Trawick\Mvc.Workflow.Wizard\SqlServerTrackingParticipant\obj\Debug\SqlServerTrackingParticipant.pdb

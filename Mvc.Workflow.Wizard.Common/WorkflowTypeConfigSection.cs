@@ -92,7 +92,7 @@ namespace Mvc.Workflow.Wizard.Common
         {
             foreach (WorkflowTypeConfigElement e in GetWorkflowTypeSection().WorkflowType)
             {
-                if (e.Name == name) return e;
+                if (e.Name.ToLower() == name.ToLower()) return e;
             }
             return new WorkflowTypeConfigElement();
         }
